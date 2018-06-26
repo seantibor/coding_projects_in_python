@@ -1,3 +1,4 @@
+# Coding exercises from the Coding Projects in Python book by DK press
 import random
 
 lives = 9
